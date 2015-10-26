@@ -1,4 +1,4 @@
-Github ιστοσελίδα Version 3.0   17/10/2015
+<p><i>Github ιστοσελίδα Version 3.0   17/10/2015</p></i>
 
 
 <p><b>Γενικές χρήσιμες πληροφορίες</b></p>
@@ -26,10 +26,10 @@ Github ιστοσελίδα Version 3.0   17/10/2015
 
 <p>Τηλέφωνο : 6970591918
 
-Web site : <ins>https://github.com/delavinias21/<ins>
+Web site : <p><ins>https://github.com/delavinias21/</ins><p>
 
 E-mail   : t.delavinias@windowslive.com</p>
 
 
 
-<p><i>Copyright 2015 GitHub Inc. All rights reserved.<i><p>
+<p><i>Copyright 2015 GitHub Inc. All rights reserved.</i><p>
